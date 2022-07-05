@@ -1,0 +1,56 @@
+@font-face {
+    font-family: 'W1';
+    src: url('../assets/fonts/W1.woff2');
+}
+
+@font-face {
+    font-family: 'W2';
+    src: url('../assets/fonts/W2.woff2');
+}
+
+@font-face {
+    font-family: 'W3';
+    src: url('../assets/fonts/W3.woff2');
+}
+
+@font-face {
+    font-family: 'W4';
+    src: url('../assets/fonts/W4.woff2');
+}
+
+@font-face {
+    font-family: 'W5';
+    src: url('../assets/fonts/W5.woff2');
+}
+
+@font-face {
+    font-family: 'W6';
+    src: url('../assets/fonts/W6.woff2');
+}
+
+@font-face {
+    font-family: 'W7';
+    src: url('../assets/fonts/W7.woff2');
+}
+
+@font-face {
+    font-family: 'W8';
+    src: url('../assets/fonts/W8.woff2');
+}
+
+@font-face {
+    font-family: 'W9';
+    src: url('../assets/fonts/W9.woff2');
+}
+
+*{
+    margin: 0px;
+    box-sizing: border-box;
+    border: px red solid;
+}
+
+a, a:active, a:link, a:visited{
+    text-decoration: none;
+    display: inline-block;
+    color: inherit;
+}
